@@ -1,0 +1,10 @@
+.idea/
+.pytest_cache/
+pytest-cache-files-*/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.mypy_cache/
+.ruff_cache/
