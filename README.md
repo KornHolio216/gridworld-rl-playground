@@ -195,9 +195,9 @@ python -m src.train --env lunarlander --model ppo --timesteps 50000 --model-path
 
 `LunarLander-v3` may require the Box2D extra for Gymnasium, depending on the local Python environment.
 
-## Tested With
+## Environment
 
-The current artifacts were generated locally with:
+The project is tested in GitHub Actions with Python 3.11. The checked artifacts in this repository were generated locally with:
 
 | Tool | Version |
 |---|---|
